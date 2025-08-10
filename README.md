@@ -19,5 +19,6 @@ This is a single-page CV/portfolio built using HTML and CSS. It showcases skills
 - CSS3  
 
 ## Author  
-Emily (not really Playboi Carti 😄)  
+Emily (not really Playboi Carti )  
 
+https://roadmap.sh/projects/single-page-cv
